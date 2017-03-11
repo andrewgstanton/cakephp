@@ -352,7 +352,7 @@ SQL;
                 'comment' => null,
             ],
             'views' => [
-                'type' => 'integer',
+                'type' => 'smallint',
                 'null' => true,
                 'default' => 0,
                 'length' => 5,
